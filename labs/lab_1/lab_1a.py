@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is to simulate a change made on a robot: robot_speed = 3 # m/s
+=======
+This is to simulate a change made on a robot: robot_speed = 8 # m/s
+>>>>>>> Stashed changes
 lab_1a.py
 
 The first lab in the BWSI CSS course. To complete this lab, fill out the variable on line 10
